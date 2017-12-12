@@ -1,5 +1,5 @@
-
-python is a widely used high-level programming language for general purpose.
-This programming language was created by GUIDO VAN ROSSUM and first released in 1991.
-An intepreted language,python has a dsign philosophy that emphasizes code readability and a syntax that allows programmes to express concepts on fewer lines of code than might be used in languages such as c++ or java.
-it provides constructs that enable clear programming on both small and large scales
+python is a widely used high-level programming language for general purpose 
+Programming created by GUIDO VAN ROSSUM and first released in 1991
+An intepreted language python has a design philosophy that emphasizes code redability 
+and a syntax that allows programmer to exprss concepts in fewer lines of codses than might be used in languages such as c++ or java
+It provides constructs that enable clear programming on both small and large scales.
